@@ -27,10 +27,6 @@
 		</button>	
 
 
-
-
-
-
 		<br/>
 		<br/>
 		<div class="six wide field">
