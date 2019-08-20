@@ -26,6 +26,9 @@
 		<button class="ui button" > 저장
 		</button>	
 
+
+
+
 		<br/>
 		<br/>
 		<div class="six wide field">
