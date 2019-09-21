@@ -20,6 +20,9 @@
 <br/>
 	<div class="ui form">
 		<br/>
+		작성자 : ${nick} <br/>
+		작성자(new) : ${nick1} <br/>
+		<img src=${img}> <br/>
 		<div class="ui input">
 		  <input type="text" placeholder="제목">
 		</div>
